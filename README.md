@@ -24,7 +24,7 @@ My credentials include a Graduation in Physics from the Universidade Federal de 
 
 
 ## Projetos:
-Em construção:
+Análise dos Dados do Airbnb - Santiago, Chile: (https://bit.ly/DS_Airbnb_Santiago)
 
 
 
