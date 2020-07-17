@@ -24,6 +24,7 @@ My credentials include a Graduation in Physics from the Universidade Federal de 
 
 ## Projetos:
 Análise dos Dados do Airbnb - Santiago, Chile: (https://bit.ly/DS_Airbnb_Santiago)
+
 Análise de Dados de Violência no estado de MG: (https://bit.ly/3eB173C)
 
 
