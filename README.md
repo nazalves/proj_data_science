@@ -18,8 +18,8 @@ My credentials include a Graduation in Physics from the Universidade Federal de 
 **Background in:** Python, Machine Learning, MySQL, SQL Server, Educational Robotic and Video Maker.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/guilherme-nazareth-1a592021/)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/guilherme-nazareth/)
+* [Medium](https://medium.com/@dbagui)
 
 
 ## Projetos:
