@@ -27,6 +27,8 @@ Análise dos Dados do Airbnb - Santiago, Chile: (https://bit.ly/DS_Airbnb_Santia
 
 Análise de Dados de Violência no estado de MG: (https://bit.ly/3eB173C)
 
+Análise de Dados Covid-19: (http://bit.ly/Covid_DSNP)
+
 
 
 ---
